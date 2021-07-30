@@ -1,5 +1,16 @@
 # Change Log
 
+## 1.4.8
+
+### Patch Changes
+
+- [`a8dcdfdb6`](https://github.com/chakra-ui/chakra-ui/commit/a8dcdfdb636e0c9624e171bb155302723504e290)
+  [#4452](https://github.com/chakra-ui/chakra-ui/pull/4452) Thanks
+  [@jamesopti](https://github.com/jamesopti)! - fix(Stack): Ensure that when
+  cloning children, their provided keys are preferred over index. This prevents
+  them from being destroyed and recreated when a child's position in the list
+  changes.
+
 ## 1.4.7
 
 ### Patch Changes
