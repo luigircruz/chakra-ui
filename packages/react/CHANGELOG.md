@@ -1,5 +1,31 @@
 # Change Log
 
+## 1.6.6
+
+### Patch Changes
+
+- Updated dependencies
+  [[`bafcc39aa`](https://github.com/chakra-ui/chakra-ui/commit/bafcc39aa80964928a69215ab16e0f24f33bea95),
+  [`df57f448f`](https://github.com/chakra-ui/chakra-ui/commit/df57f448ff1de6eded6647f73950e8978612316c),
+  [`2172e610b`](https://github.com/chakra-ui/chakra-ui/commit/2172e610b2a5c6e3867e83d142be2d1a19b7355d),
+  [`a8dcdfdb6`](https://github.com/chakra-ui/chakra-ui/commit/a8dcdfdb636e0c9624e171bb155302723504e290),
+  [`46d0fb099`](https://github.com/chakra-ui/chakra-ui/commit/46d0fb099f415f7f3556c657ecd05e35ec68a9de),
+  [`ff4dc7c38`](https://github.com/chakra-ui/chakra-ui/commit/ff4dc7c38310367c0e89522db9e88ae069cb6c2b)]:
+  - @chakra-ui/button@1.4.2
+  - @chakra-ui/tooltip@1.3.9
+  - @chakra-ui/slider@1.2.8
+  - @chakra-ui/layout@1.4.8
+  - @chakra-ui/theme@1.10.0
+  - @chakra-ui/form-control@1.4.0
+  - @chakra-ui/system@1.7.2
+  - @chakra-ui/toast@1.2.10
+  - @chakra-ui/input@1.2.9
+  - @chakra-ui/number-input@1.2.9
+  - @chakra-ui/radio@1.3.9
+  - @chakra-ui/select@1.1.13
+  - @chakra-ui/textarea@1.1.13
+  - @chakra-ui/skeleton@1.1.17
+
 ## 1.6.5
 
 ### Patch Changes
@@ -1272,7 +1298,6 @@
   "to-bl" // 'to bottom left'
   "to-l" // 'to left'
   "to-tl" // 'to top left'
-
   ```
 
   ```jsx

@@ -1,5 +1,14 @@
 # Change Log
 
+## 1.3.9
+
+### Patch Changes
+
+- [`df57f448f`](https://github.com/chakra-ui/chakra-ui/commit/df57f448ff1de6eded6647f73950e8978612316c)
+  [#4442](https://github.com/chakra-ui/chakra-ui/pull/4442) Thanks
+  [@5ebastianMeier](https://github.com/5ebastianMeier)! - Fix tooltips not
+  closing when openDelay is set
+
 ## 1.3.8
 
 ### Patch Changes
